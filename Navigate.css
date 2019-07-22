@@ -1,0 +1,18 @@
+nav {
+background-color:black;
+text-align:center;
+}
+
+nav ul li a{
+display:block;
+text-align:centre;
+font-size:1.5em;
+color:white;
+background-color:black;
+margin:0px;
+padding:0px;
+
+}
+nav ul li {
+width:10%;display:inline-block;
+}
